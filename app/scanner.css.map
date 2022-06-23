@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "AAAA,OAAO,CAAC,yEAAI;AAEZ,AAAA,CAAC,CAAA;EACG,WAAW,EAAE,qBAAqB;CACrC;;AAED;;;;;;;;;;;;;;;;;;EAkBE",
+    "mappings": "AAAA,OAAO,CAAC,yEAAI;AAEZ,AAAA,CAAC,CAAA;EACG,WAAW,EAAE,qBAAqB;CACrC;;AAED,AAAA,WAAW,CAAA;EACP,sBAAsB,CAAA,6CAAC;CAC1B;;AAED;;;;;;;;;;;;;;;;;;EAkBE",
     "sources": [
         "scanner.scss"
     ],

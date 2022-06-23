@@ -3,6 +3,10 @@
   font-family: 'Merriweather', serif;
 }
 
+ion-content {
+  --ion-background-color: linear-gradient(to right, #075F5F , #0FD2D2);
+}
+
 /*
 #qr-content{
     padding: 5rem;
