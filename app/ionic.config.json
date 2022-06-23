@@ -1,0 +1,8 @@
+{
+  "name": "TreasureHunt",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "custom"
+}

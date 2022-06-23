@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+*{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+ion-row{
+    text-align: center;
+    
+    ion-col{
+        justify-content: center;
+    }
+
+    img{
+        width: 70vw;
+        max-width: 25rem;
+    }
+}
+
+.first{
+    min-height: 80vh;
+}
+
+.second{
+    min-height: 20vh;
+    padding-bottom: 1rem;
+}

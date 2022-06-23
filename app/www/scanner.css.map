@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,yEAAI;AAEZ,AAAA,CAAC,CAAA;EACG,WAAW,EAAE,qBAAqB;CACrC;;AAED;;;;;;;;;;;;;;;;;;EAkBE",
+    "sources": [
+        "scanner.scss"
+    ],
+    "names": [],
+    "file": "scanner.css"
+}

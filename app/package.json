@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^3.6.0",
+    "@capacitor/core": "3.6.0",
+    "@ionic/core": "^6.1.10"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "3.6.0"
+  },
+  "name": "treasurehunt",
+  "version": "1.0.0",
+  "description": "Een app voor basischool kinderen om een speurtocht te houden.",
+  "scripts" : { 
+    "ionic:build": "ionic-app-scripts build",  
+    "ionic:serve": "ionic-app-scripts serve" 
+    }
+}

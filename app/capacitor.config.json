@@ -1,0 +1,6 @@
+{
+  "appId": "com.treasurehunt.app",
+  "appName": "TreasureHunt",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
