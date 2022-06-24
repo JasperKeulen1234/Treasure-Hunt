@@ -5,6 +5,9 @@ Dit project word gemaakt voor de stichting STEAM Limburg/Kindante. Hierbij was h
 
 > Het JSON formaat moet hetzelfde zijn in elke QR code. Hieronder zie je een voorbeeld van zo een code:
 
+    {
+    "index":"testMemoryQuiz"
+    }
 
 > Ook moet je je goed informeren over Ionic, dit is een framework om javascript, voor het maken van mobiele apps.
 
