@@ -17,6 +17,27 @@ data = {
         <iframe style="width: 100vw;aspect-ratio:4/4;" src="https://player.ntr.nl/index.php?id=WO_NTR_16264536" frameborder="0" allow="encrypted-media; geolocation" allowfullscreen=""></iframe>
         `
     },
+    "testMultipleChoiceQuiz":{
+        "html":`
+        <h1 style="text-align:center; background-color:#00A6ED; width:60%; margin:0 auto; margin-top:1rem;">Wat was de hoofdstad van het romeinse rijk? </h1>
+        <section style="display:flex;align-items:center;justify-content:space-between;padding:5rem;flex-wrap:wrap-reverse;">
+            <div style="display:flex;flex-direction:column;align-items:center; margin:0 auto;">
+                <a onclick="fout()" style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Rome</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Antiochië</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Ephesus</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Carthago</a>
+            </div>
+            <div style=" margin-bottom:2rem;">
+                <img style="max-height: 25rem" src="./images/romanflag.png">
+            </div>
+        </section>
+        `
+    },
+    "testTextQuiz":{
+        "html":`
+        
+        `
+    },
     "romeinen1":{
         "html":`
         <ion-card>
@@ -33,20 +54,4 @@ data = {
             </ion-card-content>
         </ion-card>`
     },
-    "testMultipleChoiceQuiz":{
-        "html":`
-        <h1 style="text-align:center; background-color:#00A6ED; width:60%; margin:0 auto; margin-top:1rem;">Wat was de hoofdstad van het romeinse rijk? </h1>
-        <section style="display:flex;align-items:center;justify-content:space-between;padding:5rem;flex-wrap:wrap-reverse;">
-            <div style="display:flex;flex-direction:column;align-items:center; margin:0 auto;">
-                <a onclick="fout()" style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Rome</a>
-                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Antiochië</a>
-                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Ephesus</a>
-                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Carthago</a>
-            </div>
-            <div style=" margin-bottom:2rem;">
-                <img style="max-height: 25rem" src="./images/romanflag.png">
-            </div>
-        </section>
-        `
-    }
 }
