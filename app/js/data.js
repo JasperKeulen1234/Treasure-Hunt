@@ -19,7 +19,7 @@ data = {
     },
     "testMultipleChoiceQuiz":{
         "html":`
-        <h1 style="text-align:center; background-color:#00A6ED; width:60%; margin:0 auto; margin-top:1rem;">Wat was de hoofdstad van het romeinse rijk? </h1>
+        <h1 style="text-align:center; color:#FFFFFF; width:60%; margin:0 auto; margin-top:1rem;">Wat was de hoofdstad van het romeinse rijk? </h1>
         <section style="display:flex;align-items:center;justify-content:space-between;padding:5rem;flex-wrap:wrap-reverse;">
             <div style="display:flex;flex-direction:column;align-items:center; margin:0 auto;">
                 <a onclick="fout()" style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Rome</a>
