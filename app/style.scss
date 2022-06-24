@@ -5,6 +5,10 @@
     font-weight: bold;
 }
 
+body{
+    background: linear-gradient(to right, #075F5F , #0FD2D2);
+}
+
 ion-row{
     text-align: center;
     
@@ -26,3 +30,4 @@ ion-row{
     min-height: 20vh;
     padding-bottom: 1rem;
 }
+
