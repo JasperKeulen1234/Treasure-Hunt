@@ -9,6 +9,9 @@ Dit project word gemaakt voor de stichting STEAM Limburg/Kindante. Hierbij was h
     "index":"testMemoryQuiz"
     }
 
+    Hier is de QR code generator die wij gebruiken:
+    https://www.qr-code-generator.com/
+
 > Ook moet je je goed informeren over Ionic, dit is een framework om javascript, voor het maken van mobiele apps.
 
 > Het formaat van de data.js moet aangehouden worden, omdat dit bestand zorgt voor de QR codes, en de QR codes hebben een bepaald formaat, waardoor dit hetzelfde moet zijn als de data.js
