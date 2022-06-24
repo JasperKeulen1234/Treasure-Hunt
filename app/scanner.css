@@ -6,24 +6,4 @@
 ion-content {
   --ion-background-color: linear-gradient(to right, #075F5F , #0FD2D2);
 }
-
-/*
-#qr-content{
-    padding: 5rem;
-
-    div{
-        display:flex;
-        flex-direction:column;
-        height:100vh;
-        align-items: center;
-
-        span{
-            background-color: #333333;
-            padding: 0.5rem;
-            border-radius: 10px;
-            font-size: 0.75rem;
-        }
-    }
-}
-*/
 /*# sourceMappingURL=scanner.css.map */

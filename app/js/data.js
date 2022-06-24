@@ -38,6 +38,25 @@ data = {
             
         `
     },
+    "testMemoryQuiz":{
+        "html":`
+        <h1 style="text-align:center; color:#FFFFFF; width:60%; margin:0 auto; margin-top:1rem;">Welke van deze uitvindingen zijn van de romeinen en welke van de grieken? </h1>
+        <section  style="display:flex;align-items:center;justify-content:space-between;padding:5rem;">
+            <div style="display:flex;flex-direction:column;align-items:center; margin:0.5rem;">
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Wegen</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Olympische Spelen</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Cartografie</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Aquaduct</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Watermolen</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:10rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Badhuis</a>
+            </div>
+            <div style="display:flex;flex-direction:column;align-items:center; margin:0 auto;">
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Romeinen</a>
+                <a style="padding: 1rem 2rem; background-color: #A3A3A3;border-radius:1rem;color:#000000; min-width:9rem; margin-bottom:1rem; text-align:center; text-decoration:none;">Grieken</a>
+            </div>
+        </section>
+        `
+    },
     "romeinen1":{
         "html":`
         <ion-card>
